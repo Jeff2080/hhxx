@@ -3,7 +3,7 @@ package ttt;
 /**
  * @author Jeff
  * @date 2020-08-14
- * @description the chess board class for TicTacToa game
+ * @description the chess board class for TicTacToe game
  */
 
 public class ChessBoard {
