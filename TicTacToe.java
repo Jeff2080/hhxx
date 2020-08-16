@@ -56,5 +56,5 @@ public class TicTacToe {
 				e.printStackTrace();
 			}
 		}
-		}
+	}
 }
