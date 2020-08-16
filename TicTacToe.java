@@ -7,10 +7,10 @@ import java.io.InputStreamReader;
 /**
  * @author Jeff
  * @date 2020-08-14
- * @description main class of TicTacToa game
+ * @description main class of TicTacToe game
  */
 
-public class TicTacToa {
+public class TicTacToe {
 
 	public static void main(String[] args) {
 		//create a new match
