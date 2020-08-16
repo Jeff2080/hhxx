@@ -3,7 +3,7 @@ package ttt;
 /**
  * @author Jeff
  * @date 2020-08-14
- * @description the Step class will store the every step details for TicTacToa game
+ * @description the Step class will store the every step details for TicTacToe game
  */
 
 public class Step {
